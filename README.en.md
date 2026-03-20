@@ -54,10 +54,8 @@ This project is part of the **jnMetaCode** family:
 
 | Project | Description |
 |---------|-------------|
-| [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) | Claude Code superpowers — curated tips and skills |
-| [awesome-claude-md](https://github.com/jnMetaCode/awesome-claude-md) | CLAUDE.md best practices and templates |
 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | AI agent collection covering every industry |
-| [ai-ui-design](https://github.com/jnMetaCode/ai-ui-design) | AI-driven UI design guide and resources |
+| [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) | Claude Code superpowers — curated tips and skills |
 
 ## Community
 
