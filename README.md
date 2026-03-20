@@ -50,12 +50,12 @@
 
 ## 相关项目
 
-本项目是 **jnMetaCode** 系列的一部分，以下是兄弟项目：
-
 | 项目 | 描述 |
 |------|------|
+| [awesome-claude-md](https://github.com/jnMetaCode/awesome-claude-md) | CLAUDE.md 最佳实践与模板精选 |
+| [ai-ui-design](https://github.com/jnMetaCode/ai-ui-design) | AI 驱动的 UI 设计指南与资源 |
 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | AI Agent 智能体集合——覆盖各行各业 |
-| [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) | Claude Code 超能力——精选技巧与 Skills 合集 |
+| [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) | AI 编程超能力——精选技巧与 Skills 合集 |
 
 ## 社区
 

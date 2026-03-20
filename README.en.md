@@ -50,12 +50,12 @@ Whether you are brand new to AI coding tools or looking to level up your workflo
 
 ## Related Projects
 
-This project is part of the **jnMetaCode** family:
-
 | Project | Description |
 |---------|-------------|
+| [awesome-claude-md](https://github.com/jnMetaCode/awesome-claude-md) | Curated CLAUDE.md best practices & templates |
+| [ai-ui-design](https://github.com/jnMetaCode/ai-ui-design) | AI-powered UI design patterns & prompts |
 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | AI agent collection covering every industry |
-| [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) | Claude Code superpowers — curated tips and skills |
+| [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) | AI coding superpowers — curated tips and skills |
 
 ## Community
 
