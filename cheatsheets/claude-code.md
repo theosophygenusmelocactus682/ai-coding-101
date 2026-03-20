@@ -43,7 +43,7 @@
 claude "帮我审查最近的 commit"
 
 # 非交互模式（适合脚本）
-claude --message "修复 lint 错误" --no-interactive
+claude -p "修复 lint 错误"
 
 # 指定模型
 claude --model opus
@@ -106,3 +106,7 @@ claude --resume
 3. **先看再改**：让 AI 先分析代码再修改，`先阅读 X 文件，然后...`
 4. **分步执行**：复杂任务拆成小步骤，每步确认后再继续
 5. **利用 CLAUDE.md**：把项目的关键信息写进配置文件，减少每次重复说明
+
+---
+
+更多工作流详见 [工作流篇](../guides/03-workflow-patterns.md)

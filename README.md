@@ -45,7 +45,7 @@
 | 模型 | Claude Sonnet/Opus | 多模型可切换 | GPT-4o/Claude | GPT-4o/o3 | Gemini 2.5 Pro |
 | 上下文 | 整个项目 | 当前文件 + 引用 | 当前文件 + 引用 | 整个项目 | 整个项目 |
 | 最佳场景 | 复杂重构、多文件任务 | 日常编码、快速补全 | 行级补全、轻量辅助 | 自动化脚本、批量任务 | Google 生态集成 |
-| 定价模式 | 订阅制（$20/100/200） | 订阅制（$20/40） | 订阅制（$10/19） | 随 ChatGPT 订阅 | 免费（有配额） |
+| 定价模式 | API 按量付费 / Pro $20 / Max $100-200 | 订阅制（$20/40） | 订阅制（$10/19） | API 按量付费 / 随 ChatGPT 订阅 | 免费（有配额） |
 | 离线支持 | 否 | 部分 | 部分 | 否 | 否 |
 
 ## 相关项目
@@ -54,10 +54,8 @@
 
 | 项目 | 描述 |
 |------|------|
-| [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) | Claude Code 超能力——精选技巧与 Skills 合集 |
-| [awesome-claude-md](https://github.com/jnMetaCode/awesome-claude-md) | CLAUDE.md 最佳实践与模板精选 |
 | [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | AI Agent 智能体集合——覆盖各行各业 |
-| [ai-ui-design](https://github.com/jnMetaCode/ai-ui-design) | AI 驱动的 UI 设计指南与资源 |
+| [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) | Claude Code 超能力——精选技巧与 Skills 合集 |
 
 ## 社区
 

@@ -43,7 +43,7 @@
 claude "Review my latest commit"
 
 # Non-interactive mode (for scripts)
-claude --message "Fix lint errors" --no-interactive
+claude -p "Fix lint errors"
 
 # Specify a model
 claude --model opus
@@ -106,3 +106,7 @@ claude --resume
 3. **Read before edit**: Have the AI analyze code before modifying it: `Read X file first, then...`
 4. **Execute in steps**: Break complex tasks into small steps; confirm each before continuing
 5. **Leverage CLAUDE.md**: Put key project info in the config file to avoid repeating context every session
+
+---
+
+For detailed workflows, see [Workflow Patterns](../guides/03-workflow-patterns.en.md)

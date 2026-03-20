@@ -114,6 +114,32 @@ Turn 4: Write unit tests for this module
   identify potential vulnerabilities, and suggest fixes.
 ```
 
+## Detecting and Preventing AI Hallucinations
+
+AI coding assistants sometimes fabricate content that does not exist -- this is known as **hallucination**. Recognizing and preventing hallucinations is a key skill for using AI effectively.
+
+### Common Hallucination Types
+
+- **Fabricated packages or APIs**: AI may recommend npm packages, Python libraries, or API endpoints that do not exist
+- **Wrong function signatures**: Parameter names, types, or return values that do not match the actual documentation
+- **Incorrect version-specific behavior**: AI may confuse APIs across versions, e.g., describing a React 18 feature as if it works in React 16
+
+### Prevention Strategies
+
+- **Ask AI to cite sources**: `Which version of the docs does this API come from?`
+- **Verify packages exist**: Use `npm info <package>` or `pip show <package>` to confirm a package is real
+- **Check official documentation**: For critical API calls, always cross-reference with official docs
+- **Plan before executing**: Have the AI list its plan and dependencies first; review before generating code
+
+### Red Flags
+
+- AI gives an overly confident answer about an obscure API
+- A recommended package name you have never heard of
+- A function signature that looks "reasonable" but cannot be found in the docs
+- AI claims a feature is available in a specific version, but you cannot verify it
+
+**Rule of thumb**: The more confidently AI describes an API you are unfamiliar with, the more you should verify it.
+
 ## Language-Specific Prompting Tips
 
 ### Python
@@ -150,3 +176,5 @@ Turn 4: Write unit tests for this module
 ---
 
 Previous: [Getting Started](./01-getting-started.en.md) | Next: [Workflow Patterns](./03-workflow-patterns.en.md)
+
+Related cheatsheet: [Prompt Templates](../cheatsheets/prompts.en.md)

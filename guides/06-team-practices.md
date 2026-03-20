@@ -130,3 +130,5 @@ AI 自动 Review（第一轮）
 ---
 
 上一篇：[进阶篇](./05-advanced-techniques.md) | 下一篇：[工具对比篇](./07-tools-comparison.md)
+
+相关速查表：[Claude Code 速查](../cheatsheets/claude-code.md) | [Cursor 速查](../cheatsheets/cursor.md)

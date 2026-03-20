@@ -140,3 +140,5 @@ Skills are reusable workflow templates. You can create custom skills for your te
 ---
 
 Previous: [Project Setup](./04-project-setup.en.md) | Next: [Team Practices](./06-team-practices.en.md)
+
+Related cheatsheet: [Claude Code](../cheatsheets/claude-code.en.md)

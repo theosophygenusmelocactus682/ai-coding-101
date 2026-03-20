@@ -28,7 +28,7 @@
 **Weaknesses**:
 - Requires terminal experience
 - No visual IDE interface
-- Higher subscription cost (Max plan $100-200/mo)
+- API pay-as-you-go, or Pro $20/mo (with usage limits), or Max $100-200/mo
 
 **Best for**: Senior developers, complex refactors, multi-file collaboration
 
@@ -68,7 +68,7 @@
 - Batch automation support
 
 **Weaknesses**:
-- Requires ChatGPT subscription
+- Requires OpenAI API key or ChatGPT subscription
 - Ecosystem and plugins still early-stage
 
 **Best for**: OpenAI ecosystem users, scripted automation
@@ -103,10 +103,10 @@
 
 | Tool | Free Tier | Basic Plan | Premium Plan |
 |------|-----------|------------|--------------|
-| Claude Code | Pay-as-you-go | $20/mo (Pro) | $100-200/mo (Max) |
+| Claude Code | API pay-as-you-go (no subscription needed) | $20/mo (Pro, with usage limits) | $100-200/mo (Max, higher limits) |
 | Cursor | Limited free | $20/mo (Pro) | $40/mo (Business) |
 | GitHub Copilot | Limited free | $10/mo | $19/mo (Business) |
-| Codex CLI | With ChatGPT Plus | $20/mo (Plus) | $200/mo (Pro) |
+| Codex CLI | API pay-as-you-go / with ChatGPT Plus | $20/mo (Plus) | $200/mo (Pro) |
 | Gemini CLI | Free (with quota) | — | $19.99/mo (Advanced) |
 | Windsurf | Limited free | $15/mo | $30/mo (Team) |
 
@@ -140,3 +140,5 @@ Many developers use a combination rather than a single tool:
 ---
 
 Previous: [Team Practices](./06-team-practices.en.md) | Back to: [Table of Contents](../README.en.md)
+
+Related cheatsheets: [Claude Code](../cheatsheets/claude-code.en.md) | [Cursor](../cheatsheets/cursor.en.md) | [Prompt Templates](../cheatsheets/prompts.en.md)

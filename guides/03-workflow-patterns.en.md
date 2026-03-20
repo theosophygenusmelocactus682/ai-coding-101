@@ -143,3 +143,5 @@
 ---
 
 Previous: [Prompt Engineering](./02-prompt-engineering.en.md) | Next: [Project Setup](./04-project-setup.en.md)
+
+Related cheatsheets: [Claude Code](../cheatsheets/claude-code.en.md) | [Cursor](../cheatsheets/cursor.en.md)

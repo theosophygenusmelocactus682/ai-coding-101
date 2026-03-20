@@ -99,3 +99,5 @@ Create a `CLAUDE.md` or `.cursorrules` for your project to tell the AI about you
 ---
 
 Next: [Prompt Engineering - How to Talk to Your AI Assistant](./02-prompt-engineering.en.md)
+
+Related cheatsheets: [Claude Code](../cheatsheets/claude-code.en.md) | [Cursor](../cheatsheets/cursor.en.md)

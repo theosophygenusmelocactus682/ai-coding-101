@@ -48,6 +48,8 @@ More CLAUDE.md templates and best practices: [awesome-claude-md](https://github.
 
 ## .cursorrules Configuration
 
+> **Note**: `.cursorrules` is the legacy format and still works. Modern Cursor uses the `.cursor/rules/` directory, supporting multiple rule files.
+
 `.cursorrules` is Cursor's project-level config file.
 
 ```
@@ -140,3 +142,5 @@ More curated skills and advanced usage: [superpowers-zh](https://github.com/jnMe
 ---
 
 Previous: [Workflow Patterns](./03-workflow-patterns.en.md) | Next: [Advanced Techniques](./05-advanced-techniques.en.md)
+
+Related cheatsheets: [Claude Code](../cheatsheets/claude-code.en.md) | [Cursor](../cheatsheets/cursor.en.md)

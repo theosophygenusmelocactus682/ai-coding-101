@@ -142,3 +142,5 @@
 ---
 
 上一篇：[提示词篇](./02-prompt-engineering.md) | 下一篇：[项目配置篇](./04-project-setup.md)
+
+相关速查表：[Claude Code 速查](../cheatsheets/claude-code.md) | [Cursor 速查](../cheatsheets/cursor.md)

@@ -224,3 +224,7 @@ Please cover:
 Output format: Clear, concise English.
 Include a simple example illustrating the algorithm's execution.
 ```
+
+---
+
+For more prompting techniques, see [Prompt Engineering](../guides/02-prompt-engineering.en.md)

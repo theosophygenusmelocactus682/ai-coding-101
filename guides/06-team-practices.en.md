@@ -130,3 +130,5 @@ Merge
 ---
 
 Previous: [Advanced Techniques](./05-advanced-techniques.en.md) | Next: [Tools Comparison](./07-tools-comparison.en.md)
+
+Related cheatsheets: [Claude Code](../cheatsheets/claude-code.en.md) | [Cursor](../cheatsheets/cursor.en.md)

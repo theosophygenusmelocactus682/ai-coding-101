@@ -48,6 +48,8 @@
 
 ## .cursorrules 配置
 
+> **注意**：`.cursorrules` 是旧版格式，仍然有效。Cursor 新版推荐使用 `.cursor/rules/` 目录，支持多个规则文件。
+
 `.cursorrules` 是 Cursor 的项目级配置文件。
 
 ```
@@ -140,3 +142,5 @@ Claude Code 支持通过 Skills 扩展能力——预定义的工作流模板，
 ---
 
 上一篇：[工作流篇](./03-workflow-patterns.md) | 下一篇：[进阶篇](./05-advanced-techniques.md)
+
+相关速查表：[Claude Code 速查](../cheatsheets/claude-code.md) | [Cursor 速查](../cheatsheets/cursor.md)

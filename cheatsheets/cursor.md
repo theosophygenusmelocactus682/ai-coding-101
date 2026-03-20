@@ -57,6 +57,8 @@
 
 ## .cursorrules 快速配置
 
+> **注意**：`.cursorrules` 是旧版格式，仍然有效。Cursor 新版推荐使用 `.cursor/rules/` 目录，支持多个规则文件。
+
 在项目根目录创建 `.cursorrules` 文件：
 
 ```
@@ -113,3 +115,7 @@ Chat: 创建一个 React 表格组件，支持排序、分页、搜索过滤，
 3. **渐进式编辑**：先用 Chat 讨论方案，确认后再用 Cmd+K 执行修改
 4. **保存常用指令**：将常用的 prompt 保存在 `.cursorrules` 中
 5. **结合终端**：Cursor 的终端也支持 AI——用 `Cmd+Shift+K` 生成命令
+
+---
+
+更多项目配置详见 [项目配置篇](../guides/04-project-setup.md)

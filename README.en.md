@@ -45,7 +45,7 @@ Whether you are brand new to AI coding tools or looking to level up your workflo
 | Models | Claude Sonnet/Opus | Multi-model | GPT-4o/Claude | GPT-4o/o3 | Gemini 2.5 Pro |
 | Context | Entire project | Current file + refs | Current file + refs | Entire project | Entire project |
 | Best for | Complex refactors, multi-file | Daily coding, fast completion | Line-level completion | Automation, batch tasks | Google ecosystem |
-| Pricing | Subscription ($20/100/200) | Subscription ($20/40) | Subscription ($10/19) | Included with ChatGPT | Free (with quota) |
+| Pricing | API pay-as-you-go / Pro $20 / Max $100-200 | Subscription ($20/40) | Subscription ($10/19) | API pay-as-you-go / with ChatGPT subscription | Free (with quota) |
 | Offline | No | Partial | Partial | No | No |
 
 ## Related Projects

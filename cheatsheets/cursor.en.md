@@ -57,6 +57,8 @@ Use `@` in Chat and Composer to provide context:
 
 ## Quick .cursorrules Setup
 
+> **Note**: `.cursorrules` is the legacy format and still works. Modern Cursor uses the `.cursor/rules/` directory, supporting multiple rule files.
+
 Create a `.cursorrules` file in your project root:
 
 ```
@@ -113,3 +115,7 @@ Select code → Cmd+L → "Explain the logic, especially what this regex does"
 3. **Progressive editing**: Discuss the approach in Chat first, then use Cmd+K to execute
 4. **Save common instructions**: Put frequently used prompts in `.cursorrules`
 5. **Use the terminal**: Cursor's terminal also supports AI — use `Cmd+Shift+K` to generate commands
+
+---
+
+For project configuration details, see [Project Setup](../guides/04-project-setup.en.md)

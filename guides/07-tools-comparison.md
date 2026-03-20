@@ -28,7 +28,7 @@
 **劣势**：
 - 需要终端操作经验
 - 无可视化 IDE 界面
-- 订阅费用较高（Max 套餐 $100-200/月）
+- API 按量付费或订阅 Pro $20/月（有用量限制）、Max $100-200/月
 
 **最适合**：资深开发者、复杂重构、多文件协作任务
 
@@ -68,7 +68,7 @@
 - 可批量自动化任务
 
 **劣势**：
-- 依赖 ChatGPT 订阅
+- 需要 OpenAI API key 或 ChatGPT 订阅
 - 生态和插件还在早期
 
 **最适合**：OpenAI 生态用户、自动化脚本任务
@@ -103,10 +103,10 @@
 
 | 工具 | 免费方案 | 基础方案 | 高级方案 |
 |------|---------|---------|---------|
-| Claude Code | 按量付费 | $20/月 (Pro) | $100-200/月 (Max) |
+| Claude Code | API 按量付费（无需订阅） | $20/月 (Pro，有用量限制) | $100-200/月 (Max，更高用量) |
 | Cursor | 有限免费 | $20/月 (Pro) | $40/月 (Business) |
 | GitHub Copilot | 有限免费 | $10/月 | $19/月 (Business) |
-| Codex CLI | 随 ChatGPT Plus | $20/月 (Plus) | $200/月 (Pro) |
+| Codex CLI | API 按量付费 / 随 ChatGPT Plus | $20/月 (Plus) | $200/月 (Pro) |
 | Gemini CLI | 免费（有配额） | — | $19.99/月 (Advanced) |
 | Windsurf | 有限免费 | $15/月 | $30/月 (Team) |
 
@@ -140,3 +140,5 @@
 ---
 
 上一篇：[团队协作篇](./06-team-practices.md) | 返回：[目录](../README.md)
+
+相关速查表：[Claude Code 速查](../cheatsheets/claude-code.md) | [Cursor 速查](../cheatsheets/cursor.md) | [提示词模板](../cheatsheets/prompts.md)
